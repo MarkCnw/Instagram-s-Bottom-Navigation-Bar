@@ -78,7 +78,7 @@ class _BottomTapsState extends State<BottomTaps> {
               height: 30,
               width: 30,
               decoration: const BoxDecoration(
-                image: DecorationImage(image: AssetImage('assets/images/profile.png')),
+                image: DecorationImage(image: AssetImage('assets/images/pig.jpg')),
                 shape: BoxShape.circle
               ),
             ),
